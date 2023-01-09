@@ -115,7 +115,7 @@ body ::-webkit-scrollbar {
 /*------------------------------------*/ /*------------------------------------*/
 /*------------------------------------*/ /*------------------------------------*/
 .header {
-  background: url(/images/header/background.jpg) center no-repeat;
+  background: url(../images/header/background.jpg) center no-repeat;
   background-size: cover;
   min-height: 1480px;
   margin-bottom: 100px;
@@ -326,7 +326,7 @@ body ::-webkit-scrollbar {
   height: 13px;
   left: 16px;
   bottom: 13px;
-  background: url(/images/ico/tel.svg);
+  background: url(../images/ico/tel.svg);
 }
 .header__basket {
   padding: 15px;
@@ -337,7 +337,7 @@ body ::-webkit-scrollbar {
 }
 
 .catalog {
-  background: url(/images/catalog/background.png) center no-repeat;
+  background: url(../images/catalog/background.png) center no-repeat;
   background-size: cover;
   min-height: 1100px;
   font-family: "Oswald";
@@ -428,7 +428,7 @@ body ::-webkit-scrollbar {
 }
 
 .population {
-  background: url(/images/population/background.jpg) 735px 0px no-repeat;
+  background: url(../images/population/background.jpg) 735px 0px no-repeat;
   margin-bottom: 170px;
   position: relative;
 }
@@ -439,7 +439,7 @@ body ::-webkit-scrollbar {
   height: 1007px;
   left: 400px;
   bottom: -320px;
-  background: url(/images/population/purple.png);
+  background: url(../images/population/purple.png);
 }
 .population__content {
   font-family: "Oswald";
@@ -452,7 +452,7 @@ body ::-webkit-scrollbar {
   height: 1391px;
   left: -300px;
   bottom: -700px;
-  background: url(/images/population/blue.png);
+  background: url(../images/population/blue.png);
 }
 .population__title {
   font-family: "Cormorant";
@@ -492,7 +492,7 @@ body ::-webkit-scrollbar {
   height: 60px;
   right: -10px;
   top: -10px;
-  background: url(/images/population/new.svg);
+  background: url(../images/population/new.svg);
 }
 .population__box:nth-child(3)::after {
   content: "";
@@ -501,7 +501,7 @@ body ::-webkit-scrollbar {
   height: 60px;
   right: -10px;
   top: -10px;
-  background: url(/images/population/sale.svg);
+  background: url(../images/population/sale.svg);
 }
 .population__img {
   margin-bottom: 10px;
@@ -551,7 +551,7 @@ body ::-webkit-scrollbar {
   height: 7px;
   right: -45px;
   bottom: 5px;
-  background: url(/images/ico/Arrow.svg);
+  background: url(../images/ico/Arrow.svg);
 }
 
 .order {
@@ -566,7 +566,7 @@ body ::-webkit-scrollbar {
   left: -80px;
   bottom: -180px;
   z-index: 0;
-  background: url(/images/order/bacground.png);
+  background: url(../images/order/bacground.png);
 }
 .order__title {
   font-family: "Cormorant";
@@ -629,7 +629,7 @@ body ::-webkit-scrollbar {
   right: 0px;
   bottom: -100px;
   z-index: 1;
-  background: url(/images/occasion/Ellipse.png);
+  background: url(../images/occasion/Ellipse.png);
 }
 .occasion__top {
   display: -webkit-box;
@@ -659,7 +659,7 @@ body ::-webkit-scrollbar {
   height: 1px;
   left: 70px;
   bottom: -60px;
-  background: url(/images/occasion/Line.svg);
+  background: url(../images/occasion/Line.svg);
 }
 .occasion__title:nth-child(2) {
   margin-left: 380px;
@@ -702,7 +702,7 @@ body ::-webkit-scrollbar {
   height: 61px;
   left: -25px;
   bottom: -65px;
-  background: url(/images/occasion/Arrow.svg);
+  background: url(../images/occasion/Arrow.svg);
 }
 .occasion__bottom-item {
   font-weight: 400;
